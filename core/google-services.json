@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "112080208606",
+    "firebase_url": "https://flappybird-clone.firebaseio.com",
+    "project_id": "flappybird-clone",
+    "storage_bucket": "flappybird-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112080208606:android:4483bf612d38684911384f",
+        "android_client_info": {
+          "package_name": "com.grohedev.flappybird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112080208606-6hoseukmlfib2uugbmar9ei6kcbcvt2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grohedev.flappybird",
+            "certificate_hash": "9707db000953daf0bd75b2feffb3822b8905ebb4"
+          }
+        },
+        {
+          "client_id": "112080208606-67nmcantu7r4ikqb65no3l8d1uact1n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ4qyLJr1YeDRsA3d5YrCL7pm-0XBgiRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112080208606-67nmcantu7r4ikqb65no3l8d1uact1n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
